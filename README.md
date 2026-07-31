@@ -1,6 +1,6 @@
 # Security App API 
 
-API RESTful desenvolvida com **Spring Boot** e **Java 21**, focada em autenticação e autorização *Stateless* utilizando **Spring Security** e **JWT**. Inclui controle de acesso baseado em *roles* (RBAC), persistência com **PostgreSQL**, migrações com **Flyway** e documentação interativa com **Springdoc OpenAPI (Swagger)**.
+**API RESTful desenvolvida com Spring Boot e Java 21, focada em autenticação e autorização Stateless utilizando Spring Security e JWT. Inclui controle de acesso baseado em roles (RBAC), persistência relacional com PostgreSQL conteinerizado (Docker), migrações com Flyway e documentação interativa com Springdoc OpenAPI (Swagger).**
 
 ---
 
