@@ -37,6 +37,8 @@ principal SecurityappApplication pela sua IDE ou utilize o Maven via terminal:
 
 ./mvnw spring-boot:run
 
+---
+
 ## Documentação da API (Swagger)
 Com a aplicação rodando, você pode acessar a documentação interativa da API diretamente pelo
 navegador:
