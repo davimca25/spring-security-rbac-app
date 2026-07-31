@@ -22,6 +22,8 @@ rodá-lo localmente.
 git clone https://github.com/seu-usuario/securityapp.git
 cd securityapp
 
+___
+
 ### Configure as Variáveis de Ambiente
 Crie ou configure as seguintes variáveis de ambiente na sua IDE (como o IntelliJ IDEA) ou no seu
 sistema operacional antes de executar o projeto:
