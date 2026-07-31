@@ -30,8 +30,6 @@ O projeto possui um arquivo docker-compose.yml pré-configurado na raiz para fac
 
 Execute o comando abaixo no terminal para baixar a imagem e rodar o container do banco em segundo plano:
 
-Bash
-
 docker compose up -d
 
 ---
