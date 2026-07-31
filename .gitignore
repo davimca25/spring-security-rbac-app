@@ -39,6 +39,3 @@ request.http
 
 *.log
 .DS_Store
-
-
-docker-compose.yml
