@@ -25,6 +25,16 @@ git clone https://github.com/seu-usuario/securityapp.git
 
 ---
 
+## Suba o Banco de Dados com Docker
+O projeto possui um arquivo docker-compose.yml pré-configurado na raiz para facilitar a execução do PostgreSQL.
+
+Execute o comando abaixo no terminal para baixar a imagem e rodar o container do banco em segundo plano:
+
+Bash
+docker compose up -d
+
+---
+
 ## Configure as Variáveis de Ambiente
 Crie ou configure as seguintes variáveis de ambiente na sua IDE (como o IntelliJ IDEA) ou no seu
 sistema operacional antes de executar o projeto.
