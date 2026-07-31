@@ -32,16 +32,13 @@ build/
 ### VS Code ###
 .vscode/
 
-### Arquivos Sensíveis do Projeto ###
-# Oculta o arquivo de propriedades principal que contém senhas e secrets
-src/main/resources/application.properties
 
-# Oculta arquivos de requisição do IntelliJ (que podem conter tokens JWT gerados)
 *.http
 request.http
 
-### Logs e SO ###
+
 *.log
 .DS_Store
+
 
 docker-compose.yml
