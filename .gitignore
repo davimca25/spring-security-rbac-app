@@ -43,3 +43,5 @@ request.http
 ### Logs e SO ###
 *.log
 .DS_Store
+
+docker-compose.yml
